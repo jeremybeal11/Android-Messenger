@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.pokt-network:pocket-android-aion:0.0.3@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/pocket-android-aion-0.0.3.aar/6cb315f94b81fa9bb01076b8c38ce33b/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/pocket-android-aion-0.0.3.aar/6cb315f94b81fa9bb01076b8c38ce33b/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.pokt-network/pocket-android-aion/0.0.3/e2c582d2b54ad99aac3204fab23e4474e59ab746/pocket-android-aion-0.0.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
